@@ -1,3 +1,7 @@
 # React Fitness Application
 
-[React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+Created a Fitness App using React library on Visual Studio Code.
+Can look into more than 1000 exercises.
+Displays similar exercises.
+Generate related videos from youtube to show.
+Easy User-Interface.
